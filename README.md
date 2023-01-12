@@ -7,4 +7,7 @@ Udemy Course. Complete ML Course with Python.
     + Sklearn Library.
     + Exploratory Data Analysis.
     + Correlation Analysis and Feature Selection.
-    + 
+    + Linear Regression Model with scikit learn library.
+    + Five steps ML process.
+    + Robust Regression (RANSAC Regression)
+    + Evaluation of the Regression Model Perfomance.
