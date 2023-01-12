@@ -1,3 +1,10 @@
+Update the Main Branch Using
+git branch -m main main-course-content-full-chapters
+git fetch origin
+git branch -u origin/main-course-content-full-chapters main-course-content-full-chapters
+git remote set-head origin -a
+
+
 # Complete-ML-Course-with-Python---Udemy
 Udemy Course. Complete ML Course with Python.
 
