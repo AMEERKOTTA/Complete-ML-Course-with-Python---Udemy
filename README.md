@@ -11,3 +11,5 @@ Udemy Course. Complete ML Course with Python.
     + Five steps ML process.
     + Robust Regression (RANSAC Regression)
     + Evaluation of the Regression Model Perfomance.
+    + Multiple Regression using Statsmodel.
+    + Regularization methods such as Lasso, Ridge and Elastic Net.
