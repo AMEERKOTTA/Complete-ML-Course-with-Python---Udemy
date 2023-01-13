@@ -22,3 +22,4 @@ Udemy Course. Complete ML Course with Python.
     + Regularization methods such as Lasso, Ridge and Elastic Net.
     + Polynomial Regression.
     + Non-Linear Relationships.
+    + Feature Importance
