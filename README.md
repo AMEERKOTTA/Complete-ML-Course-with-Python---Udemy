@@ -24,6 +24,6 @@ Udemy Course. Complete ML Course with Python.
     + Non-Linear Relationships.
     + Feature Importance
     + Data Preprocessing
-            + Standardization
+          + Standardization
             + Min Max Scaler
             + Normalization
