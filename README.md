@@ -18,5 +18,7 @@ Udemy Course. Complete ML Course with Python.
     + Feature Importance
     + Data Preprocessing
     
+    + couple of problems are ther in Section 3
+    
 + Section 4 : Classification.
-    + intro
+    + intro  
