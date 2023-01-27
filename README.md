@@ -3,6 +3,7 @@ Udemy Course. Complete ML Course with Python.
 
 + Section 1 : Get Started
 + Section 2 : Intro to IRIS Dataset.
+    + Explanation about Iris Data.
 + Section 3 : Regression.
     + Sklearn Library.
     + Exploratory Data Analysis.
