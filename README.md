@@ -23,4 +23,4 @@ Udemy Course. Complete ML Course with Python.
     + couple of problems are ther in Section 3
     
 + Section 4 : Classification.
-    + intro  
+    + Logistic Regression Model.
