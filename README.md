@@ -31,5 +31,6 @@ Udemy Course. Complete ML Course with Python.
     + Confusion Matrix.
     + Precsion
     + Recall
+    + f1 Score
     + Precision Recall Tradeoff.
     + ROC AUC Concept.
