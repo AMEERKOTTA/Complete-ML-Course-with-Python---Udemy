@@ -25,3 +25,6 @@ Udemy Course. Complete ML Course with Python.
     + Logistic Regression Model.
     + Understanding MNIST Data.
     + Training SGDClassifier Model.
+    + Perfomance Measure - StratifiedKFolds.
+        + `StratifiedKFolds Method`
+        + `cross_val_score() method`
