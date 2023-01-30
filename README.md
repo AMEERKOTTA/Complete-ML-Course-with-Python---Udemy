@@ -24,3 +24,4 @@ Udemy Course. Complete ML Course with Python.
     
 + Section 4 : Classification.
     + Logistic Regression Model.
+    + Understanding MNIST Data.
