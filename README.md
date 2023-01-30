@@ -19,7 +19,6 @@ Udemy Course. Complete ML Course with Python.
     + Non-Linear Relationships.
     + Feature Importance
     + Data Preprocessing
-    
     + couple of problems are ther in Section 3
     
 + Section 4 : Classification.
