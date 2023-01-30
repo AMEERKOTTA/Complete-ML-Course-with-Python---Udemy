@@ -28,3 +28,8 @@ Udemy Course. Complete ML Course with Python.
     + Perfomance Measure - StratifiedKFolds.
         + `StratifiedKFolds Method`
         + `cross_val_score() method`
+    + Confusion Matrix.
+    + Precsion
+    + Recall
+    + Precision Recall Tradeoff.
+    + ROC AUC Concept.
