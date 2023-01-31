@@ -35,3 +35,5 @@ Udemy Course. Complete ML Course with Python.
     + f1 Score
     + Precision Recall Tradeoff.
     + ROC AUC Concept.
+    
++ Section 5 : Support Vector Machines
